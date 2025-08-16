@@ -26,7 +26,7 @@ The application exposes a single RESTful API endpoint that accepts a Shopify sto
 -   **Database**: MySQL
 -   **Data Validation**: Pydantic
 -   **Web Scraping**: `requests` & `BeautifulSoup4`
--   **AI / LLM Integration**: Groq API (using the `llama2-70b-4096` model for unstructured text).
+-   **AI / LLM Integration**: Groq API (using the `llama-3.1-8b-instant` model for unstructured text).
 -   **Environment Management**: `python-dotenv`
 
 ## Setup and Installation
