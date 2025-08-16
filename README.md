@@ -1,6 +1,3 @@
-Of course. Here is a short `README.md` file for your project. You can copy and paste this text into a new file named `README.md` in your `DeepSolv_Task` folder.
-
----
 
 # Shopify Web Store Scraper 
 
