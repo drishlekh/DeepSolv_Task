@@ -80,7 +80,7 @@ The application provides an interactive API documentation page via FastAPI.
 -   **Request Body**:
     ```json
     {
-      "website_url": "https://memy.co.in"
+      "website_url": "paste the link"
     }
     ```
 -   **Success Response (`200 OK`)**: A JSON object containing the structured brand data.
